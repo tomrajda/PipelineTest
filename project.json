@@ -4,7 +4,8 @@
   "description": "PipelineTest",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.System.Activities": "[25.2.1]"
+    "UiPath.System.Activities": "[25.2.1]",
+    "UiPath.Testing.Activities": "[24.10.1]"
   },
   "webServices": [],
   "entitiesStores": [],
