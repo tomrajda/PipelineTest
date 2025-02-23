@@ -94,7 +94,7 @@
           <scg:Dictionary x:TypeArguments="x:String, Argument" />
         </ui:InvokeWorkflowFile.Arguments>
       </ui:InvokeWorkflowFile>
-      <ui:LogMessage DisplayName="Test Case - Log Message" sap:VirtualizedContainerService.HintSize="416,164" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Info" Message="[&quot;Test Case 3&quot;]" />
+      <ui:LogMessage DisplayName="Test Case - Log Message" sap:VirtualizedContainerService.HintSize="416,164" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="Info" Message="[&quot;Test Case5&quot;]" />
     </Sequence>
   </Sequence>
 </Activity>
